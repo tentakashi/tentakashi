@@ -1,8 +1,8 @@
 - 👋 Kia ora! I'm Kiley/@tentakashi
-- 👀 Currently studying EngLit and JP at uni, but coding for fun in my free time!
-- 🌱 I’m currently learning HTML/CSS & perhaps JS
+- 👀 Uni Student from NZ, currently studying EngLit & JP.
+- 🌱 Hobbyist dev (re)learning HTML/CSS & eventually taking a crack at JavaScript
 - 💞️ I’m looking to make resources for language study at some point!
-- 📫 Most active over on twitter as gekijounokanata
+- 📫 Active over on twitter as gekijounokanata
 
 <!---
 tentakashi/tentakashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
